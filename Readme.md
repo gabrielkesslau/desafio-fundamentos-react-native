@@ -8,7 +8,7 @@
 - Para executar, basta clonar o mesmo com o comando abaixo:
 
 ```bash
-git clone git@github.com:andrelinos/gostack-fundamentos-react-native.git
+git clone git@github.com:gabrielkesslau/desafio-fundamentos-react-native.git
 ```
 
 - Após fazer o clone da pasta, basta executar o comando abaixo para baixar as dependencias do projeto com o comando baixo:
